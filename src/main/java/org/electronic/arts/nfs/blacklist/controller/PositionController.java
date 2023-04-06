@@ -63,4 +63,7 @@ public class PositionController {
 		positionServiceImpl.deleteByPosition(pos);
 		return new ResponseEntity<>(HttpStatus.OK);
 	}
+	
+	//prueba de maquina 2
+	
 }
